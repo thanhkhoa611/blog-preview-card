@@ -34,25 +34,3 @@ The designs were created to the following widths:
 - Weights: 500, 800
 
 > 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
-
-/* Frame 3 */
-
-box-sizing: border-box;
-
-/* Auto layout */
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 24px;
-gap: 24px;
-
-position: absolute;
-width: 327px;
-height: 501px;
-left: calc(50% - 327px/2);
-top: calc(50% - 501px/2 - 0.5px);
-
-background: #FFFFFF;
-border: 1px solid #111111;
-box-shadow: 8px 8px 0px #000000;
-border-radius: 20px;
